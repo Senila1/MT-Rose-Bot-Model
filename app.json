@@ -19,24 +19,20 @@
       "value": "ANYTHING"
     },
     "TOKEN": {
-      "description": "Your bot token, as a string.", 
-      "value": "5003697101:AAFpZoZiYjgXxdcadZgflM0PkuktDEdoc84" 
+      "description": "Your bot token, as a string."
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
       "value": "1725772017"
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
-      "value": "lord_of_the_death"
-    },
+      "description": "Your username"},
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
       "value": "ANYTHING"
     },
     "URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "__" 
+      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
