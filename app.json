@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MRK-YT/MT-Rose-Bot-Model",
+  "repository": "https://github.com/Senila1/MT-Rose-Bot-Model",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
@@ -26,7 +26,8 @@
       "value": "1725772017"
     },
     "OWNER_USERNAME": {
-      "description": "Your username"},
+      "description": "Your username"
+    },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
       "value": "ANYTHING"
